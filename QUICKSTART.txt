@@ -1,0 +1,13 @@
+MACROLENS QUICK START (Windows)
+
+1. Install Python from https://www.python.org/downloads/
+2. Open the extracted project folder.
+3. Click the folder address bar, type cmd, and press Enter.
+4. Run:
+   py -m venv .venv
+   .\.venv\Scripts\activate
+   python -m pip install -r requirements.txt
+   python -m streamlit run app.py
+5. Open the local URL Streamlit prints, usually http://localhost:8501
+
+The included CSV is synthetic demo data, not official statistics.

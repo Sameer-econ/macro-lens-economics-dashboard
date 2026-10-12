@@ -1,0 +1,166 @@
+year,country,indicator,value,data_type
+2015,India,GDP growth (%),8.0,Synthetic illustrative data — not official statistics
+2016,India,GDP growth (%),8.3,Synthetic illustrative data — not official statistics
+2017,India,GDP growth (%),6.8,Synthetic illustrative data — not official statistics
+2018,India,GDP growth (%),6.5,Synthetic illustrative data — not official statistics
+2019,India,GDP growth (%),3.9,Synthetic illustrative data — not official statistics
+2020,India,GDP growth (%),-5.8,Synthetic illustrative data — not official statistics
+2021,India,GDP growth (%),9.7,Synthetic illustrative data — not official statistics
+2022,India,GDP growth (%),7.0,Synthetic illustrative data — not official statistics
+2023,India,GDP growth (%),8.2,Synthetic illustrative data — not official statistics
+2024,India,GDP growth (%),6.5,Synthetic illustrative data — not official statistics
+2025,India,GDP growth (%),6.4,Synthetic illustrative data — not official statistics
+2015,India,Inflation (%),4.9,Synthetic illustrative data — not official statistics
+2016,India,Inflation (%),4.5,Synthetic illustrative data — not official statistics
+2017,India,Inflation (%),3.6,Synthetic illustrative data — not official statistics
+2018,India,Inflation (%),3.4,Synthetic illustrative data — not official statistics
+2019,India,Inflation (%),4.8,Synthetic illustrative data — not official statistics
+2020,India,Inflation (%),6.2,Synthetic illustrative data — not official statistics
+2021,India,Inflation (%),5.5,Synthetic illustrative data — not official statistics
+2022,India,Inflation (%),6.7,Synthetic illustrative data — not official statistics
+2023,India,Inflation (%),5.7,Synthetic illustrative data — not official statistics
+2024,India,Inflation (%),4.9,Synthetic illustrative data — not official statistics
+2025,India,Inflation (%),4.2,Synthetic illustrative data — not official statistics
+2015,India,Unemployment (%),5.0,Synthetic illustrative data — not official statistics
+2016,India,Unemployment (%),5.2,Synthetic illustrative data — not official statistics
+2017,India,Unemployment (%),5.4,Synthetic illustrative data — not official statistics
+2018,India,Unemployment (%),5.3,Synthetic illustrative data — not official statistics
+2019,India,Unemployment (%),5.3,Synthetic illustrative data — not official statistics
+2020,India,Unemployment (%),8.0,Synthetic illustrative data — not official statistics
+2021,India,Unemployment (%),6.0,Synthetic illustrative data — not official statistics
+2022,India,Unemployment (%),4.8,Synthetic illustrative data — not official statistics
+2023,India,Unemployment (%),4.2,Synthetic illustrative data — not official statistics
+2024,India,Unemployment (%),4.1,Synthetic illustrative data — not official statistics
+2025,India,Unemployment (%),4.0,Synthetic illustrative data — not official statistics
+2015,United States,GDP growth (%),2.9,Synthetic illustrative data — not official statistics
+2016,United States,GDP growth (%),1.8,Synthetic illustrative data — not official statistics
+2017,United States,GDP growth (%),2.5,Synthetic illustrative data — not official statistics
+2018,United States,GDP growth (%),3.0,Synthetic illustrative data — not official statistics
+2019,United States,GDP growth (%),2.6,Synthetic illustrative data — not official statistics
+2020,United States,GDP growth (%),-2.2,Synthetic illustrative data — not official statistics
+2021,United States,GDP growth (%),6.1,Synthetic illustrative data — not official statistics
+2022,United States,GDP growth (%),2.5,Synthetic illustrative data — not official statistics
+2023,United States,GDP growth (%),2.9,Synthetic illustrative data — not official statistics
+2024,United States,GDP growth (%),2.8,Synthetic illustrative data — not official statistics
+2025,United States,GDP growth (%),2.0,Synthetic illustrative data — not official statistics
+2015,United States,Inflation (%),0.1,Synthetic illustrative data — not official statistics
+2016,United States,Inflation (%),1.3,Synthetic illustrative data — not official statistics
+2017,United States,Inflation (%),2.1,Synthetic illustrative data — not official statistics
+2018,United States,Inflation (%),2.4,Synthetic illustrative data — not official statistics
+2019,United States,Inflation (%),1.8,Synthetic illustrative data — not official statistics
+2020,United States,Inflation (%),1.2,Synthetic illustrative data — not official statistics
+2021,United States,Inflation (%),4.7,Synthetic illustrative data — not official statistics
+2022,United States,Inflation (%),8.0,Synthetic illustrative data — not official statistics
+2023,United States,Inflation (%),4.1,Synthetic illustrative data — not official statistics
+2024,United States,Inflation (%),2.9,Synthetic illustrative data — not official statistics
+2025,United States,Inflation (%),2.6,Synthetic illustrative data — not official statistics
+2015,United States,Unemployment (%),5.3,Synthetic illustrative data — not official statistics
+2016,United States,Unemployment (%),4.9,Synthetic illustrative data — not official statistics
+2017,United States,Unemployment (%),4.4,Synthetic illustrative data — not official statistics
+2018,United States,Unemployment (%),3.9,Synthetic illustrative data — not official statistics
+2019,United States,Unemployment (%),3.7,Synthetic illustrative data — not official statistics
+2020,United States,Unemployment (%),8.1,Synthetic illustrative data — not official statistics
+2021,United States,Unemployment (%),5.3,Synthetic illustrative data — not official statistics
+2022,United States,Unemployment (%),3.6,Synthetic illustrative data — not official statistics
+2023,United States,Unemployment (%),3.6,Synthetic illustrative data — not official statistics
+2024,United States,Unemployment (%),4.0,Synthetic illustrative data — not official statistics
+2025,United States,Unemployment (%),4.2,Synthetic illustrative data — not official statistics
+2015,United Kingdom,GDP growth (%),2.3,Synthetic illustrative data — not official statistics
+2016,United Kingdom,GDP growth (%),1.9,Synthetic illustrative data — not official statistics
+2017,United Kingdom,GDP growth (%),2.7,Synthetic illustrative data — not official statistics
+2018,United Kingdom,GDP growth (%),1.4,Synthetic illustrative data — not official statistics
+2019,United Kingdom,GDP growth (%),1.6,Synthetic illustrative data — not official statistics
+2020,United Kingdom,GDP growth (%),-10.3,Synthetic illustrative data — not official statistics
+2021,United Kingdom,GDP growth (%),8.5,Synthetic illustrative data — not official statistics
+2022,United Kingdom,GDP growth (%),5.1,Synthetic illustrative data — not official statistics
+2023,United Kingdom,GDP growth (%),0.1,Synthetic illustrative data — not official statistics
+2024,United Kingdom,GDP growth (%),1.1,Synthetic illustrative data — not official statistics
+2025,United Kingdom,GDP growth (%),1.2,Synthetic illustrative data — not official statistics
+2015,United Kingdom,Inflation (%),0.0,Synthetic illustrative data — not official statistics
+2016,United Kingdom,Inflation (%),0.7,Synthetic illustrative data — not official statistics
+2017,United Kingdom,Inflation (%),2.7,Synthetic illustrative data — not official statistics
+2018,United Kingdom,Inflation (%),2.5,Synthetic illustrative data — not official statistics
+2019,United Kingdom,Inflation (%),1.8,Synthetic illustrative data — not official statistics
+2020,United Kingdom,Inflation (%),0.9,Synthetic illustrative data — not official statistics
+2021,United Kingdom,Inflation (%),2.6,Synthetic illustrative data — not official statistics
+2022,United Kingdom,Inflation (%),9.1,Synthetic illustrative data — not official statistics
+2023,United Kingdom,Inflation (%),7.4,Synthetic illustrative data — not official statistics
+2024,United Kingdom,Inflation (%),2.5,Synthetic illustrative data — not official statistics
+2025,United Kingdom,Inflation (%),2.8,Synthetic illustrative data — not official statistics
+2015,United Kingdom,Unemployment (%),5.4,Synthetic illustrative data — not official statistics
+2016,United Kingdom,Unemployment (%),4.9,Synthetic illustrative data — not official statistics
+2017,United Kingdom,Unemployment (%),4.4,Synthetic illustrative data — not official statistics
+2018,United Kingdom,Unemployment (%),4.1,Synthetic illustrative data — not official statistics
+2019,United Kingdom,Unemployment (%),3.8,Synthetic illustrative data — not official statistics
+2020,United Kingdom,Unemployment (%),4.5,Synthetic illustrative data — not official statistics
+2021,United Kingdom,Unemployment (%),4.5,Synthetic illustrative data — not official statistics
+2022,United Kingdom,Unemployment (%),3.7,Synthetic illustrative data — not official statistics
+2023,United Kingdom,Unemployment (%),4.0,Synthetic illustrative data — not official statistics
+2024,United Kingdom,Unemployment (%),4.3,Synthetic illustrative data — not official statistics
+2025,United Kingdom,Unemployment (%),4.4,Synthetic illustrative data — not official statistics
+2015,Japan,GDP growth (%),1.6,Synthetic illustrative data — not official statistics
+2016,Japan,GDP growth (%),0.8,Synthetic illustrative data — not official statistics
+2017,Japan,GDP growth (%),1.7,Synthetic illustrative data — not official statistics
+2018,Japan,GDP growth (%),0.6,Synthetic illustrative data — not official statistics
+2019,Japan,GDP growth (%),-0.4,Synthetic illustrative data — not official statistics
+2020,Japan,GDP growth (%),-4.2,Synthetic illustrative data — not official statistics
+2021,Japan,GDP growth (%),2.7,Synthetic illustrative data — not official statistics
+2022,Japan,GDP growth (%),1.0,Synthetic illustrative data — not official statistics
+2023,Japan,GDP growth (%),1.5,Synthetic illustrative data — not official statistics
+2024,Japan,GDP growth (%),0.1,Synthetic illustrative data — not official statistics
+2025,Japan,GDP growth (%),1.1,Synthetic illustrative data — not official statistics
+2015,Japan,Inflation (%),0.8,Synthetic illustrative data — not official statistics
+2016,Japan,Inflation (%),-0.1,Synthetic illustrative data — not official statistics
+2017,Japan,Inflation (%),0.5,Synthetic illustrative data — not official statistics
+2018,Japan,Inflation (%),1.0,Synthetic illustrative data — not official statistics
+2019,Japan,Inflation (%),0.5,Synthetic illustrative data — not official statistics
+2020,Japan,Inflation (%),0.0,Synthetic illustrative data — not official statistics
+2021,Japan,Inflation (%),-0.2,Synthetic illustrative data — not official statistics
+2022,Japan,Inflation (%),2.5,Synthetic illustrative data — not official statistics
+2023,Japan,Inflation (%),3.3,Synthetic illustrative data — not official statistics
+2024,Japan,Inflation (%),2.7,Synthetic illustrative data — not official statistics
+2025,Japan,Inflation (%),2.4,Synthetic illustrative data — not official statistics
+2015,Japan,Unemployment (%),3.4,Synthetic illustrative data — not official statistics
+2016,Japan,Unemployment (%),3.1,Synthetic illustrative data — not official statistics
+2017,Japan,Unemployment (%),2.8,Synthetic illustrative data — not official statistics
+2018,Japan,Unemployment (%),2.4,Synthetic illustrative data — not official statistics
+2019,Japan,Unemployment (%),2.4,Synthetic illustrative data — not official statistics
+2020,Japan,Unemployment (%),2.8,Synthetic illustrative data — not official statistics
+2021,Japan,Unemployment (%),2.8,Synthetic illustrative data — not official statistics
+2022,Japan,Unemployment (%),2.6,Synthetic illustrative data — not official statistics
+2023,Japan,Unemployment (%),2.6,Synthetic illustrative data — not official statistics
+2024,Japan,Unemployment (%),2.5,Synthetic illustrative data — not official statistics
+2025,Japan,Unemployment (%),2.5,Synthetic illustrative data — not official statistics
+2015,Germany,GDP growth (%),1.7,Synthetic illustrative data — not official statistics
+2016,Germany,GDP growth (%),2.2,Synthetic illustrative data — not official statistics
+2017,Germany,GDP growth (%),2.7,Synthetic illustrative data — not official statistics
+2018,Germany,GDP growth (%),1.1,Synthetic illustrative data — not official statistics
+2019,Germany,GDP growth (%),1.1,Synthetic illustrative data — not official statistics
+2020,Germany,GDP growth (%),-4.1,Synthetic illustrative data — not official statistics
+2021,Germany,GDP growth (%),3.7,Synthetic illustrative data — not official statistics
+2022,Germany,GDP growth (%),1.4,Synthetic illustrative data — not official statistics
+2023,Germany,GDP growth (%),-0.1,Synthetic illustrative data — not official statistics
+2024,Germany,GDP growth (%),-0.2,Synthetic illustrative data — not official statistics
+2025,Germany,GDP growth (%),0.8,Synthetic illustrative data — not official statistics
+2015,Germany,Inflation (%),0.1,Synthetic illustrative data — not official statistics
+2016,Germany,Inflation (%),0.4,Synthetic illustrative data — not official statistics
+2017,Germany,Inflation (%),1.7,Synthetic illustrative data — not official statistics
+2018,Germany,Inflation (%),1.9,Synthetic illustrative data — not official statistics
+2019,Germany,Inflation (%),1.4,Synthetic illustrative data — not official statistics
+2020,Germany,Inflation (%),0.4,Synthetic illustrative data — not official statistics
+2021,Germany,Inflation (%),3.2,Synthetic illustrative data — not official statistics
+2022,Germany,Inflation (%),8.7,Synthetic illustrative data — not official statistics
+2023,Germany,Inflation (%),6.0,Synthetic illustrative data — not official statistics
+2024,Germany,Inflation (%),2.5,Synthetic illustrative data — not official statistics
+2025,Germany,Inflation (%),2.2,Synthetic illustrative data — not official statistics
+2015,Germany,Unemployment (%),4.6,Synthetic illustrative data — not official statistics
+2016,Germany,Unemployment (%),4.1,Synthetic illustrative data — not official statistics
+2017,Germany,Unemployment (%),3.8,Synthetic illustrative data — not official statistics
+2018,Germany,Unemployment (%),3.4,Synthetic illustrative data — not official statistics
+2019,Germany,Unemployment (%),3.2,Synthetic illustrative data — not official statistics
+2020,Germany,Unemployment (%),3.8,Synthetic illustrative data — not official statistics
+2021,Germany,Unemployment (%),3.6,Synthetic illustrative data — not official statistics
+2022,Germany,Unemployment (%),3.1,Synthetic illustrative data — not official statistics
+2023,Germany,Unemployment (%),3.0,Synthetic illustrative data — not official statistics
+2024,Germany,Unemployment (%),3.0,Synthetic illustrative data — not official statistics
+2025,Germany,Unemployment (%),3.1,Synthetic illustrative data — not official statistics
